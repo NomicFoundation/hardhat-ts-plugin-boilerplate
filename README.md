@@ -22,9 +22,7 @@ npm install
 
 ## Plugin development
 
-Make sure to read our [Plugin Development Guide](https://hardhat.org/guides/create-plugin.html)
-to learn how to build a plugin, and our
-[best practices to create high-quality plugins](https://hardhat.org/advanced/building-plugins.html).
+Make sure to read our [Plugin Development Guide](https://hardhat.org/advanced/building-plugins.html) to learn how to build a plugin.
 
 ## Testing
 
