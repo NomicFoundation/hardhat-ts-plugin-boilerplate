@@ -20,7 +20,7 @@ extendConfig(
     //
     // If you extended the `HardhatConfig` type, you need to make sure that
     // executing this function ensures that the `config` object is in a valid
-    // state for its type, including its extentions. For example, you may
+    // state for its type, including its extensions. For example, you may
     // need to apply a default value, like in this example.
     const userPath = userConfig.paths?.newPath;
 

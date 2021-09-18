@@ -9,7 +9,7 @@ import { ExampleHardhatRuntimeEnvironmentField } from "./ExampleHardhatRuntimeEn
 declare module "hardhat/types/config" {
   // This is an example of an extension to one of the Hardhat config values.
 
-  // We extendr the UserConfig type, which represents the config as writen
+  // We extend the UserConfig type, which represents the config as written
   // by the users. Things are normally optional here.
   export interface ProjectPathsUserConfig {
     newPath?: string;
