@@ -17,7 +17,7 @@ describe("Integration tests examples", function () {
       );
     });
 
-    it("The example filed should say hello", function () {
+    it("The example field should say hello", function () {
       assert.equal(this.hre.example.sayHello(), "hello");
     });
   });
